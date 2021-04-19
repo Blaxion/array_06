@@ -8,19 +8,20 @@
 // console.log (monTab);
 // monTab[1]= monTab[1].toUpperCase();
 // console.log (monTab);
+// monTab.reverse()
+// console.log (monTab);
 
 // Exo 2
-// let chiffres = [4, 5, 2, 1, 3];
-// chiffres.sort();
-// console.log(chiffres);
-// chiffres = chiffres.join(`-`);
-// console.log(chiffres);
-// chiffres = chiffres.split(`-`);
-// console.log(chiffres);
+let chiffres = [4, 5, 2, 1, 3];
+chiffres.sort();
+console.log(chiffres);
+chiffres = chiffres.join(`-`);
+console.log(chiffres);
+chiffres = chiffres.split(`-`);
+console.log(chiffres);
 
 // Exo 3
 // let x = [];
-
 // x.push(1,2,3,4,5,6,7,8,9,10);
 // console.log(x , x.length);
 // console.log(x.indexOf(1));
